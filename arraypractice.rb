@@ -6,5 +6,9 @@ tvshow[3] = "the office"
 tvshow[4] = "full house"
 tvshow[5] = "charlies angels"
 
-index = 0
+position = 0
+while position < tvshow.size
+  puts "#{tvshow[position]}"
+  position = position + 1 #position += 1
+end
 
