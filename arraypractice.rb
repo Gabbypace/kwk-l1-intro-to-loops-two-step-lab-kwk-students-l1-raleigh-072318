@@ -15,5 +15,8 @@ while counter < 10
   end
     counter += 1
   end
+  
+  puts "#{newarray[0]}"
+  
 
 
