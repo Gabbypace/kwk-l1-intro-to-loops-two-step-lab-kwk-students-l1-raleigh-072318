@@ -9,6 +9,6 @@ tvshow[5] = "charlies angels"
 position = 0
 while position < tvshow.size
   puts "#{tvshow[position]}"
-  position = position + 1 #position += 1
+  position += 1 #position += 1
 end
 
