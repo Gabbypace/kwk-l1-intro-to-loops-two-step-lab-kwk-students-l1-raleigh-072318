@@ -8,7 +8,7 @@ newarray = []
 counter = 1 
 while counter < 10
   if counter % 2 == 0 
-    newarray.push("Im even steventebt")
+    newarray.push("Im even steven")
   else 
    counter % 2 == 1 
     newarray.push("Im odd todd")
